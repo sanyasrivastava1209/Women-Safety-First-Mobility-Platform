@@ -1,8 +1,8 @@
-🚖SafeRide – Women Safety-First Mobility Platform(designed by AlgoNauts)
+🚖 Women Safety-First Mobility Platform(designed by AlgoNauts)
 
 📌 Project Overview
 
-SafeRide is a women-centric, safety-first ride booking platform designed to provide secure, accessible, and reliable transportation. The solution focuses on proactive safety using AI, offline emergency support, and multiple booking modes to ensure help is available even in extreme situations such as low internet connectivity or low battery.
+Women Safety-First Mobility Platform is a women-centric, safety-first ride booking platform designed to provide secure, accessible, and reliable transportation. The solution focuses on proactive safety using AI, offline emergency support, and multiple booking modes to ensure help is available even in extreme situations such as low internet connectivity or low battery.
 
 This repository contains the website (web MVP) code used to demonstrate the core idea and flows of the solution. A separate Figma prototype was created to showcase the complete user experience and app screens.
 
